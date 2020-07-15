@@ -1,0 +1,15 @@
+{
+  "name": "reacti",
+  "version": "0.0.1",
+  "description": "A nice little single-file reaction role discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
