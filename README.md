@@ -13,5 +13,6 @@ Go ahead and open the index.js file with your choice of IDE. (Visual Studio Code
 ### Setup
 As you see at line 13, we have a .login() function. Write your token in it.
 You should be done after you edited all the SELF_ROLE_CHANNEL, GUILD_ID, ROLE_1_ID and ROLE_2_ID stuff.
+Change the emojis in the embed to your choice, and what ROLE_ID it should give upon reacting.
 When you did that, run `node index.js` in the terminal.
 Voila!
